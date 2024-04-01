@@ -1,0 +1,12 @@
+name: orca_ir_extractor
+title:
+username: chris-santos
+account: chris-santos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11606058
+bundleId: 8438056
+url: https://chris-santos.shinyapps.io/orca_ir_extractor/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
